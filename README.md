@@ -1,16 +1,4 @@
-# music_app
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+diseño music app
+![Screenshot_20210730_185639_com example music_app](https://user-images.githubusercontent.com/24838069/127748430-c73afbac-2983-47ea-ad11-be15dc40f4d2.jpg)
+![Screenshot_20210730_224009_com example music_app](https://user-images.githubusercontent.com/24838069/127748431-dbdab406-eaad-4ed1-9064-50058d267b4a.jpg)
